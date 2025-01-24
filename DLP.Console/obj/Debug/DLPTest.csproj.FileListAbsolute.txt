@@ -1,0 +1,7 @@
+C:\Users\senguld\source\repos\DLPTest\DLPTest\obj\Debug\DLPTest.csproj.AssemblyReference.cache
+C:\Users\senguld\source\repos\DLPTest\DLPTest\obj\Debug\DLPTest.csproj.CoreCompileInputs.cache
+C:\Users\senguld\source\repos\DLPTest\DLPTest\bin\Debug\DLPTest.exe.config
+C:\Users\senguld\source\repos\DLPTest\DLPTest\bin\Debug\DLPTest.exe
+C:\Users\senguld\source\repos\DLPTest\DLPTest\bin\Debug\DLPTest.pdb
+C:\Users\senguld\source\repos\DLPTest\DLPTest\obj\Debug\DLPTest.exe
+C:\Users\senguld\source\repos\DLPTest\DLPTest\obj\Debug\DLPTest.pdb

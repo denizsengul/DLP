@@ -1,0 +1,23 @@
+C:\_DenizSengul\Google Drive\DLP\DLP.Console\bin\Debug\DLPTest.exe.config
+C:\_DenizSengul\Google Drive\DLP\DLP.Console\bin\Debug\DLPTest.exe
+C:\_DenizSengul\Google Drive\DLP\DLP.Console\bin\Debug\DLPTest.pdb
+C:\_DenizSengul\Google Drive\DLP\DLP.Console\obj\Debug\DLP.Console.csproj.AssemblyReference.cache
+C:\_DenizSengul\Google Drive\DLP\DLP.Console\obj\Debug\DLP.Console.csproj.CoreCompileInputs.cache
+C:\_DenizSengul\Google Drive\DLP\DLP.Console\obj\Debug\DLPTest.exe
+C:\_DenizSengul\Google Drive\DLP\DLP.Console\obj\Debug\DLPTest.pdb
+C:\_DenizSengul\Google Drive\DLP\DLP.Console\bin\Debug\DLP.Library.dll
+C:\_DenizSengul\Google Drive\DLP\DLP.Console\bin\Debug\DLP.Library.pdb
+C:\_DenizSengul\Google Drive\DLP\DLP.Console\obj\Debug\DLP.Console.csproj.CopyComplete
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.Console\bin\Debug\DLPTest.exe
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.Console\bin\Debug\DLPTest.pdb
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.Console\bin\Debug\DLP.Library.dll
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.Console\bin\Debug\log4net.dll
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.Console\bin\Debug\DLP.Library.pdb
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.Console\bin\Debug\log4net.pdb
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.Console\bin\Debug\log4net.xml
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.Console\obj\Debug\DLP.Console.csproj.AssemblyReference.cache
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.Console\obj\Debug\DLP.Console.csproj.CoreCompileInputs.cache
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.Console\obj\Debug\DLP.Console.csproj.CopyComplete
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.Console\obj\Debug\DLPTest.exe
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.Console\obj\Debug\DLPTest.pdb
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.Console\bin\Debug\DLPTest.exe.config

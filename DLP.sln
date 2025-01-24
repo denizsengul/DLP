@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35229.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLP.Console", "DLP.Console\DLP.Console.csproj", "{644B5985-B4B1-4E3D-9E62-DA70CDC578E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLP.Library", "DLP.Library\DLP.Library.csproj", "{31A7E78B-422A-4FF5-A564-175C06C92E90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLP.UI", "DLP.UI\DLP.UI.csproj", "{159F6DAC-896E-4E74-A78E-4B89C1569830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{644B5985-B4B1-4E3D-9E62-DA70CDC578E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644B5985-B4B1-4E3D-9E62-DA70CDC578E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644B5985-B4B1-4E3D-9E62-DA70CDC578E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644B5985-B4B1-4E3D-9E62-DA70CDC578E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A7E78B-422A-4FF5-A564-175C06C92E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A7E78B-422A-4FF5-A564-175C06C92E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A7E78B-422A-4FF5-A564-175C06C92E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A7E78B-422A-4FF5-A564-175C06C92E90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{159F6DAC-896E-4E74-A78E-4B89C1569830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159F6DAC-896E-4E74-A78E-4B89C1569830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159F6DAC-896E-4E74-A78E-4B89C1569830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159F6DAC-896E-4E74-A78E-4B89C1569830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD736665-6783-407E-8FE3-3C56C2D132EC}
+	EndGlobalSection
+EndGlobal

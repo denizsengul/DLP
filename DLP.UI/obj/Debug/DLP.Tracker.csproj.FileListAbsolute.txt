@@ -1,0 +1,9 @@
+C:\Users\senguld\source\repos\DLPTest\DLP.Tracker\bin\Debug\DLP.Tracker.exe.config
+C:\Users\senguld\source\repos\DLPTest\DLP.Tracker\bin\Debug\DLP.Tracker.exe
+C:\Users\senguld\source\repos\DLPTest\DLP.Tracker\bin\Debug\DLP.Tracker.pdb
+C:\Users\senguld\source\repos\DLPTest\DLP.Tracker\obj\Debug\DLP.Tracker.csproj.AssemblyReference.cache
+C:\Users\senguld\source\repos\DLPTest\DLP.Tracker\obj\Debug\DLP.Tracker.Properties.Resources.resources
+C:\Users\senguld\source\repos\DLPTest\DLP.Tracker\obj\Debug\DLP.Tracker.csproj.GenerateResource.cache
+C:\Users\senguld\source\repos\DLPTest\DLP.Tracker\obj\Debug\DLP.Tracker.csproj.CoreCompileInputs.cache
+C:\Users\senguld\source\repos\DLPTest\DLP.Tracker\obj\Debug\DLP.Tracker.exe
+C:\Users\senguld\source\repos\DLPTest\DLP.Tracker\obj\Debug\DLP.Tracker.pdb

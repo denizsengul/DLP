@@ -1,0 +1,27 @@
+C:\_DenizSengul\Google Drive\DLP\DLP.UI\bin\Debug\DLP.UI.exe.config
+C:\_DenizSengul\Google Drive\DLP\DLP.UI\bin\Debug\DLP.UI.exe
+C:\_DenizSengul\Google Drive\DLP\DLP.UI\bin\Debug\DLP.UI.pdb
+C:\_DenizSengul\Google Drive\DLP\DLP.UI\obj\Debug\DLP.UI.csproj.AssemblyReference.cache
+C:\_DenizSengul\Google Drive\DLP\DLP.UI\obj\Debug\DLP.UI.Properties.Resources.resources
+C:\_DenizSengul\Google Drive\DLP\DLP.UI\obj\Debug\DLP.UI.csproj.GenerateResource.cache
+C:\_DenizSengul\Google Drive\DLP\DLP.UI\obj\Debug\DLP.UI.csproj.CoreCompileInputs.cache
+C:\_DenizSengul\Google Drive\DLP\DLP.UI\obj\Debug\DLP.UI.exe
+C:\_DenizSengul\Google Drive\DLP\DLP.UI\obj\Debug\DLP.UI.pdb
+C:\_DenizSengul\Google Drive\DLP\DLP.UI\obj\Debug\DLP.UI.Form1.resources
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.UI\bin\Debug\DLP.UI.exe.config
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.UI\bin\Debug\DLP.UI.exe
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.UI\bin\Debug\DLP.UI.pdb
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.UI\obj\Debug\DLP.UI.csproj.AssemblyReference.cache
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.UI\obj\Debug\DLP.UI.Properties.Resources.resources
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.UI\obj\Debug\DLP.UI.csproj.GenerateResource.cache
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.UI\obj\Debug\DLP.UI.csproj.CoreCompileInputs.cache
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.UI\obj\Debug\DLP.UI.exe
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.UI\obj\Debug\DLP.UI.pdb
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.UI\bin\Debug\log4net.dll
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.UI\bin\Debug\log4net.pdb
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.UI\bin\Debug\log4net.xml
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.UI\obj\Debug\DLP.UI.csproj.CopyComplete
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.UI\bin\Debug\DLP.Library.dll
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.UI\bin\Debug\DLP.Library.pdb
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.UI\obj\Debug\DLP.UI.frmDLPEkrani.resources
+C:\_DenizSengul\Google Drive\Ailem\Deniz Şengül\Üniversite\İzmir Katip Çelebi Üniversitesi\3.Dönem\_Projects\DLP.UI\obj\Debug\DLP.UI.frmAyarlar.resources
